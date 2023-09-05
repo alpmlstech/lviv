@@ -1,0 +1,18 @@
+<template>
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="activity">
+      <path id="Icon" d="M18.3334 10H15.0001L12.5001 17.5L7.50008 2.5L5.00008 10H1.66675" stroke="#344054"
+        stroke-width="1.67" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </svg>
+</template>
+
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
+  setup() {
+    return {};
+  }
+})
+</script>
